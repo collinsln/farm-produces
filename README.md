@@ -1,4 +1,4 @@
-# Welcome to Game Haven
+# Welcome to farm- produces
 
 ## Project Description
 
@@ -15,7 +15,7 @@ This is a project where gamers get to view a list of existing games in our colle
 
 To have this work running on your local machine:
 
-* `git clone git@github.com:brianbryank/game-haven.git` on your terminal. Locate the folder, then open it in your preferred code editor. This walkthrough assumes you will be using Visual Studio Code.
+* `git clone git@github.com:collinsln/farm-produces.git` on your terminal. Locate the folder, then open it in your preferred code editor. This walkthrough assumes you will be using Visual Studio Code.
 * At the root of this directory, activate your virtual environment using `pipenv install && pipev shell` to install all the dependencies and create a virtual environment.
 * Next, run the command `npm install --prefix client` to install the front end libraries
 * cd into the `server` directory using the command `cd server`
@@ -41,25 +41,15 @@ As a user, you can:
 
 ## Authors
 
-Made by:
-
-1. Abdifatah Shukri
-2. Mercy Chepng'etich
-3. Tom Mutanyi
-4. Brian Kiplangat
-5. Joel Nyongesa
+collins 
 
 ## Contacts
 
 Feel free to contact us at:
 
-1. [Joel Nyongesa](mailto:joel.nyongesa@student.moringaschool.com)
-2. [Abdifatah Shukri](mailto:abdifatah.shukri@student.moringaschool.com)
-3. [Tom Mutanyi](mailto:tom.mutanyi@student.moringaschool.com)
-4. [Mercy Chepng'etich](mailto:mercy.chepng'etich@student.moringaschool.com)
-5. [Brian Kiplangat](mailto:brian.kiplangat@student.moringaschool.com)
+1. [collins]
 
 ## Licence
 
 [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-Copyrigt (c) 2023 **GameHaven**
+Copyrigt (c) 2024 **farm produce**
